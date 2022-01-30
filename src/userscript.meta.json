@@ -1,0 +1,13 @@
+{
+  "name": "Hentaiverse Battle Stats",
+  "namespace": "hv_battle_stats",
+  "grant": [
+    "none"
+  ],
+  "match": [
+    "*://*.hentaiverse.org/*"
+  ],
+  "exclude": [
+    "*hentaiverse.org/equip/*"
+  ]
+}
